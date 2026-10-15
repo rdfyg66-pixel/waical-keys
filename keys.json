@@ -1,0 +1,28 @@
+{
+  "passwords": [
+    {
+      "key": "WaiCal2026",
+      "expire": "30d",
+      "created": 1760000000000,
+      "active": 
+    },
+    {
+      "key": "@Saharrmohamed2005",
+      "expire": "35h",
+      "created": 1760000000000,
+      "active": true
+    },
+    {
+      "key": "@w8q_y20556",
+      "expire": "30h",
+      "created": 1760000000000,
+      "active": true
+    },
+    {
+      "key": "0000",
+      "expire": "30d",
+      "created": 1760000000000,
+      "active": 
+    }
+  ]
+}
