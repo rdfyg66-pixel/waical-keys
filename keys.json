@@ -4,7 +4,7 @@
       "key": "WaiCal2026",
       "expire": "30d",
       "created": 1792077308572,
-      "active": 
+      "active": false
     },
     {
       "key": "@Saharrmohamed2005",
@@ -22,7 +22,7 @@
       "key": "0000",
       "expire": "30d",
       "created": 1760000000000,
-      "active": 
+      "active": false
     }
   ]
 }
