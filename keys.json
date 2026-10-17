@@ -4,12 +4,12 @@
       "key": "WaiCal2026",
       "expire": "30d",
       "created": 1792077308572,
-      "active": false
+      "active": true
     },
     {
       "key": "@Saharrmohamed2005",
       "expire": "35h",
-      "created": 1792077308572,
+      "created": 1792251432456,
       "active": true
     },
     {
@@ -21,8 +21,14 @@
     {
       "key": "0000",
       "expire": "30d",
-      "created": 1760000000000,
-      "active": false
+      "created": 1792077308572,
+      "active": true
     }
-  ]
+  ],
+  "notice": {
+    "show": true,
+    "title": "تحديثات المطور:",
+    "message": "خاصية شيزوكو قيد التطوير متوفر روت ونضام وهمي فقط حاليا!",
+    "url": "https://t.me/w8q_y/880"
+  }
 }
